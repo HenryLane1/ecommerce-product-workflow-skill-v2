@@ -1,0 +1,16 @@
+{
+  "name": "ecommerce-product-workflow",
+  "version": "1.0.0",
+  "scope": ["main", "file-agent"],
+  "display_name": "电商商品全链路优化工作流",
+  "type": "skill",
+  "use_cases": [
+    "电商商品优化",
+    "主图生成",
+    "卖点图生成",
+    "标题文案",
+    "竞品分析",
+    "关键词提炼"
+  ],
+  "md5": "e69521b1ed1cc55ae601f7a556551174"
+}
